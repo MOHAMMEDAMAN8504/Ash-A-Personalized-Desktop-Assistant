@@ -1,0 +1,36 @@
+{
+  "search": {
+    "retrieval_k": {
+      "3": {
+        "count": 36,
+        "mean_reward": 1.0
+      },
+      "5": {
+        "count": 1,
+        "mean_reward": 1.0
+      }
+    },
+    "tie_breaker": {
+      "prefer_realtime": {
+        "count": 35,
+        "mean_reward": 1.0
+      },
+      "prefer_general": {
+        "count": 2,
+        "mean_reward": 1.0
+      }
+    }
+  },
+  "chat": {
+    "temperature": {
+      "0.3": {
+        "count": 252,
+        "mean_reward": 1.0
+      },
+      "0.7": {
+        "count": 8,
+        "mean_reward": 1.0
+      }
+    }
+  }
+}
