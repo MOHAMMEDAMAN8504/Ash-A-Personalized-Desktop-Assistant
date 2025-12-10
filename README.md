@@ -49,10 +49,4 @@ python Main.py
 - **Wake Word**: The assistant listens for specific wake words (e.g., "Jarvis", "Ash") if configured.
 - **Commands**: Try commands like "Open Google", "Play music on YouTube", "What is the time?", or simply chat!
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-## 📄 License
-
-This project is open-source.
